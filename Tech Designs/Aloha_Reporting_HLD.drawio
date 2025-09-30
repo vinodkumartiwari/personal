@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="-UmHKH3CU-76K_kiccDv">
+    <mxGraphModel dx="1050" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="150" width="110" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;" vertex="1" parent="jKZ8OS7S33_YaMUpP3GV-13">
+          <mxGeometry x="29" width="50" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-12" value="&lt;b&gt;PulsePro&lt;/b&gt;&lt;div&gt;(ALMP Reports)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jKZ8OS7S33_YaMUpP3GV-13">
+          <mxGeometry y="53" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="150" width="150" height="94.22999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_SQL.svg;container=0;" vertex="1" parent="jKZ8OS7S33_YaMUpP3GV-18">
+          <mxGeometry x="19.21" y="-2" width="69.57" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-2" value="&lt;b&gt;ALOHA&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;DB&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Azure Cloud)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;container=0;" vertex="1" parent="jKZ8OS7S33_YaMUpP3GV-18">
+          <mxGeometry x="-20" y="47.99923076923076" width="150" height="44.23076923076923" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;" vertex="1" parent="1">
+          <mxGeometry x="160" y="41" width="50" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-21" value="API Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="214.23000000000002" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="507.34000000000003" y="200" width="45.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-23" value="ALOHA&lt;div&gt;Cron Job&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="485.01" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="159.5" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-26" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.triggers;fillColor=#0078D7;" vertex="1" parent="1">
+          <mxGeometry x="513.5" y="90.89" width="33" height="35.11" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-27" value="&lt;div&gt;Aloha&lt;/div&gt;Trigger" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="126.00000000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://engineering.deloitte.com.au/hs-fs/hubfs/MEX%20-%20Blog%20images/MEX%20-%20Author%20-%20Paco%20de%20la%20Cruz/202007%20Load%20Balancing%20APIM/21-private-arch.png?width=861&amp;name=21-private-arch.png;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="861" height="601" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-30" value="Application&lt;div&gt;Gateway&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="233.00000000000003" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-31" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="105" y="179.5" as="sourcePoint" />
+            <mxPoint x="160" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKZ8OS7S33_YaMUpP3GV-32" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="600" y="179.5" as="sourcePoint" />
+            <mxPoint x="655" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
